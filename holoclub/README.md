@@ -14,4 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-https://github.com/byron-xie/flutterMovie/blob/master/holoclub/demo_one.gif
+
+![image](https://github.com/byron-xie/flutterMovie/blob/master/holoclub/demo_one.gif?raw=true)
+==
+
+![image](https://github.com/byron-xie/flutterMovie/blob/master/holoclub/demo.gif?raw=true)
+==
