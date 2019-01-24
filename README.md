@@ -15,9 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-## bool isShowFloatingActionButton = false;
+## bool isShowFloatingActionButton = true;
 ![image](https://github.com/byron-xie/flutterMovie/blob/master/holoclub/demo_one.gif?raw=true)
 ==
-## bool isShowFloatingActionButton = true;
+## bool isShowFloatingActionButton = false;
 ![image](https://github.com/byron-xie/flutterMovie/blob/master/holoclub/demo.gif?raw=true)
 ==
